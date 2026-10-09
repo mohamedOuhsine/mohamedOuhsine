@@ -31,10 +31,7 @@ A C++ project focused on student record management using Object-Oriented Program
 - Software development practices
 - Knowledge of computer networks
 
-### 📍 Location
-Morocco
-
 ### 📫 Contact
-- GitHub: [@mohamedOuhsine](https://github.com/mohamedOuhsine)
-- LinkedIn: Add your LinkedIn URL
-- Email: Add your professional email
+- **GitHub:** [@mohamedOuhsine](https://github.com/mohamedOuhsine)
+- **LinkedIn:** [Mohamed Ouhsine](https://www.linkedin.com/in/mohamed-ouhsine-b85b74353/)
+- **Email:** [ouhsinemohamed69@gmail.com](mailto:ouhsinemohamed69@gmail.com)
