@@ -5,7 +5,7 @@
 I'm a Computer Science student from Morocco interested in software development, web technologies, and computer networks.
 
 ### 🛠️ Technical Skills
-- **Programming:** C, C++
+- **Programming:** Python, C, C++
 - **Concepts:** Object-Oriented Programming (OOP), STL
 - **Web Development:** HTML, CSS, JavaScript
 - **Database:** SQL
@@ -14,7 +14,7 @@ I'm a Computer Science student from Morocco interested in software development, 
 ### 💼 Professional Experience
 
 **IT Intern — Provincial Directorate of Tata**  
-*September 7 – October 4, [Year]*
+*September 7 – October 4, 2026*
 
 - Gained exposure to IT support and computer systems in a professional environment.
 - Learned basic networking concepts and discovered network infrastructure, including servers and switches.
