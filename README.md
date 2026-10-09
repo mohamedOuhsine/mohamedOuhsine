@@ -1,11 +1,40 @@
 # Hi, I'm Mohamed Ouhsine 👋
 
-🎓 Computer Science Student | Software Development
+🎓 Computer Science Student | Aspiring Software Developer
 
-💻 C/C++ • OOP • SQL • HTML/CSS/JavaScript • Linux
+I'm a Computer Science student from Morocco interested in software development, web technologies, and computer networks.
 
-🌱 Currently improving my programming skills and building projects.
+### 🛠️ Technical Skills
+- **Programming:** C, C++
+- **Concepts:** Object-Oriented Programming (OOP), STL
+- **Web Development:** HTML, CSS, JavaScript
+- **Database:** SQL
+- **Tools & Systems:** Git, GitHub, Linux
 
-🚀 Interested in Software Development and Web Development.
+### 💼 Professional Experience
 
-📍 Morocco
+**IT Intern — Provincial Directorate of Tata**  
+*September 7 – October 4, [Year]*
+
+- Gained exposure to IT support and computer systems in a professional environment.
+- Learned basic networking concepts and discovered network infrastructure, including servers and switches.
+- Gained experience in administrative tasks and office workflows.
+
+### 🚀 Projects
+
+**[Student Management System](https://github.com/mohamedOuhsine/Student-Management-System)**
+
+A C++ project focused on student record management using Object-Oriented Programming, STL, and file handling.
+
+### 🌱 Currently Improving
+- Programming and problem-solving skills
+- Software development practices
+- Knowledge of computer networks
+
+### 📍 Location
+Morocco
+
+### 📫 Contact
+- GitHub: [@mohamedOuhsine](https://github.com/mohamedOuhsine)
+- LinkedIn: Add your LinkedIn URL
+- Email: Add your professional email
